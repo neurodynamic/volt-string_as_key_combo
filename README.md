@@ -1,6 +1,6 @@
 # Volt::StringAsKeyCombo
 
-TODO: Write a gem description
+Volt gem for displaying a string representing a combination of keypresses (e.g. "ctrl+alt+delete") as keyboard keys.
 
 ## Installation
 
@@ -18,11 +18,11 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```<:string_as_key_combo value="{{plus_separated_key_combination_string}}">```
 
 ## Contributing
 
-1. Fork it ( http://github.com/[my-github-username]/volt-string_as_key_combo/fork )
+1. Fork it ( http://bitbucket.com/neurordynamic/volt-string_as_key_combo/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)

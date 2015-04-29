@@ -1,2 +1,1 @@
-<:Body>
--- component --
+{{ keys(attrs.value).each do |key| }}<div class='keyboard-key outer'><div class='inner'>{{ key }}</div></div>{{ end }}

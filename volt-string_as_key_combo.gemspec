@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.version       = version
   spec.authors       = ["Neurodynamic"]
   spec.email         = ["developer@neurodynamic.io"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
+  spec.summary       = %q{Volt gem for displaying a string representing a combination of keypresses (e.g. "ctrl+alt+delete") as keyboard keys.}
   spec.description   = %q{TODO: Write a longer description. Optional.}
   spec.homepage      = ""
   spec.license       = "MIT"
