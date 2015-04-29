@@ -1,4 +1,4 @@
-module KeyboardKeys
+module StringAsKeyCombo
   class MainController < Volt::ModelController
 
     def keys(plus_separated_key_combination_string)
