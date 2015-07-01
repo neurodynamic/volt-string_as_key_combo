@@ -12,7 +12,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["developer@neurodynamic.io"]
   spec.summary       = %q{Volt gem for displaying a string representing a combination of keypresses (e.g. "ctrl+alt+delete") as keyboard keys.}
   spec.description   = %q{}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/neurodynamic/volt-string_as_key_combo"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files -z`.split("\x0")
